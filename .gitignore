@@ -1,0 +1,8 @@
+.idea
+cmake-build-debug
+build
+.cproject
+.project
+.mxproject
+CMakeLists_template.txt
+STM32F407ZGTX_RAM.ld
